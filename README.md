@@ -22,10 +22,10 @@ You need to download and use this dataset to run the notebook:
 ## Repository contents
 
 ```
-├── pca_from_scratch.ipynb
+├── PCA_Formative_TEAM_24(3).ipynb
 ├── data/
 │   └── africa_wdi_2010_2022.csv
-├── task_sheet.pdf
+├── PCA_Formative_TEAM_24-1.pdf
 └── README.md
 ```
 
